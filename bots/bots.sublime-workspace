@@ -1,0 +1,655 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"Date",
+				"DateTime"
+			],
+			[
+				"progressLi",
+				"progressListFinal"
+			],
+			[
+				"task",
+				"taskId"
+			],
+			[
+				"progressL",
+				"progressList"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"ban",
+				"banalwareList"
+			],
+			[
+				"impossibl",
+				"impossibleActions"
+			],
+			[
+				"bana",
+				"banalware"
+			],
+			[
+				"banal",
+				"banalwareList"
+			],
+			[
+				"replace",
+				"str_replace"
+			],
+			[
+				"circ",
+				"circleNumberValue"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"circl",
+				"circleNumberValue"
+			],
+			[
+				"circleNum",
+				"circleNumberCursor"
+			],
+			[
+				"circle",
+				"circleList"
+			],
+			[
+				"cir",
+				"circleNumber"
+			],
+			[
+				"dra",
+				"drawBackground"
+			],
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"is",
+				"isTraceMode"
+			],
+			[
+				"bend",
+				"bendOffset"
+			],
+			[
+				"Line",
+				"lineManager"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 93.0,
+		"last_filter": "ssphp",
+		"selected_items":
+		[
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"htmlpr",
+				"HTMLPrettify"
+			],
+			[
+				"html pre",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"align",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"anf",
+				"ANF: New File"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"fileheader",
+				"FileHeader: New File"
+			],
+			[
+				"header",
+				"FileHeader: Add Header"
+			],
+			[
+				"material",
+				"Material Theme: Configuration"
+			],
+			[
+				"traili",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"Material Theme: Activate theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"dock",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"user",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"haxe",
+				"Set Syntax: Haxe"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"trailin",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sste",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"edito",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"beat",
+				"HTMLBeautify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ionde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ma",
+				"Markdown Slideshow"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"es6",
+				"Snippet: ES6 Reflect Has"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"edi",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ccase",
+				"Convert Case: Lower Case"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			]
+		],
+		"width": 592.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/007_dev/bots",
+		"/D/007_dev/bots/banalware"
+	],
+	"file_history":
+	[
+		"/D/007_dev/adrec/poo/bases/index.php",
+		"/D/007_dev/adrec/poo/Form.php",
+		"/D/007_dev/adrec/php practice/index.php",
+		"/D/004_google_drive/Professionnel/Cours/Adrec/Cours DLW - Adrec Lyon/php/php01/bases.php",
+		"/D/004_google_drive/Professionnel/Cours/Adrec/Cours DLW - Adrec Lyon/php/php01/bases.css",
+		"/C/Users/OMAO/Desktop/facebook-narcomarch/messages/inbox/JessAlynn_nubekLI0ow/message.html",
+		"/C/Users/OMAO/Desktop/facebook-narcomarch/messages/your_messages.html",
+		"/C/Users/OMAO/AppData/Roaming/Sublime Text 3/Packages/Terminal/Base File.sublime-settings",
+		"/C/Users/OMAO/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/OMAO/Desktop/Epitech/Contacts.xml",
+		"/C/Users/OMAO/Desktop/Epitech/gitignore_global.txt",
+		"/C/Users/OMAO/Desktop/Epitech/gitscc.config",
+		"/C/Users/OMAO/Desktop/Epitech/backupUSB.sh",
+		"/C/Users/OMAO/Desktop/Epitech/Downloads/search",
+		"/C/Users/OMAO/Desktop/Epitech/Downloads/entries",
+		"/C/Users/OMAO/Desktop/Epitech/Downloads/emacs-tut.ps",
+		"/C/Users/OMAO/Desktop/Epitech/Downloads/lol.php",
+		"/C/Users/OMAO/Desktop/Epitech/math/101vecteur/option1.c",
+		"/C/Users/OMAO/Desktop/Epitech/math/102matrice/func.c",
+		"/C/Users/OMAO/Desktop/Epitech/math/105equation/main.c",
+		"/C/Users/OMAO/Desktop/Epitech/math/202VariablesDiscretes/1-projet/main.cpp",
+		"/C/Users/OMAO/Desktop/Epitech/math/202VariablesDiscretes/1-projet/ProbalityLaw.cpp",
+		"/C/Users/OMAO/Desktop/Epitech/math/306gauss-2015-guiho_f/Vector.cpp",
+		"/C/Users/OMAO/Desktop/Epitech/math/306gauss-2015-guiho_f/main.o",
+		"/C/Users/OMAO/Desktop/Epitech/math/306gauss-2015-guiho_f/Gauss.cpp",
+		"/C/Users/OMAO/Desktop/Epitech/math/307simplexe/307simplexe-2015-guiho_f/main.cpp",
+		"/C/Users/OMAO/Desktop/Epitech/math/307simplexe/307simplexe-2015-guiho_f/Matrice.cpp",
+		"/C/Users/OMAO/Desktop/Epitech/math/307simplexe/307simplexe-2015-guiho_f/Parser.hpp",
+		"/D/007_dev/gamify/src/index.php",
+		"/D/007_dev/adrec/testSymfony/templates/base.html.twig",
+		"/C/Program Files/php-7.2.11/php.ini",
+		"/C/Users/OMAO/Desktop/php.ini",
+		"/D/007_dev/gamify/src/objects/Progress.php",
+		"/D/007_dev/gamify/src/data/data.json",
+		"/D/007_dev/gamify/gamify.sublime-project",
+		"/D/007_dev/gamify/gamify-project.sublime-workspace",
+		"/D/007_dev/gamify/gamify.sublime-workspace",
+		"/C/Users/OMAO/AppData/Roaming/Sublime Text 3/Packages/FileHeader/Default (Windows).sublime-keymap",
+		"/D/007_dev/gamify/index.php",
+		"/D/007_dev/gamify/data.json",
+		"/D/007_dev/gamify/file.php",
+		"/C/Users/OMAO/AppData/Roaming/Sublime Text 3/Packages/FileHeader/FileHeader.sublime-settings",
+		"/C/Users/OMAO/AppData/Roaming/Sublime Text 3/Packages/FileHeader/coucou.php",
+		"/D/007_dev/bots/banalware/banalware.php",
+		"/D/007_dev/gamify/test.json",
+		"/D/007_dev/bots/banalware/file.php",
+		"/D/007_dev/bots/banalware/replace.php",
+		"/D/007_dev/bots/banalware/main.php",
+		"/D/007_dev/bots/banalware/banalwareList.json",
+		"/Z/Logiciels/Adobe/Adobe Photoshop CS6 13.0.1 Final  [Multi fr]/Adobe Photoshop CS6 13.0.1 Final  [Multi fr].nfo",
+		"/D/007_dev/bots/banalware.php",
+		"/D/007_dev/bots/banalwareList.json",
+		"/C/Users/OMAO/banalwareList.json",
+		"//192.168.1.85/Public/Audio/François Pérusse - Les 2 minutes du peuple - QC+FR - Collection 1992-2008/François Pérusse - Les 2 minutes du peuple - QC+FR - Collection 1992-2008.nfo",
+		"/C/Users/OMAO/Downloads/bandcamp_importer.user.js",
+		"/D/004_google_drive/Projets/01. Séquenceur/03. communication/Catalogue d'ateliers/Ateliers-Sequenceur.pages",
+		"/C/Users/OMAO/Documents/Fonts/Futura/FuturaPTBook.otf",
+		"/C/VST/iZotope/Ozone 8/Exciter Cache/exciter-dualtriode-44100.000000.dat",
+		"/D/007_dev/artcraft/dip5/README.md",
+		"/D/007_dev/artcraft/dip5/07/js/sketch.js",
+		"/D/007_dev/artcraft/dip5/07/js/Spirograph.js",
+		"/C/Program Files/HaxeToolkit/neko/include/neko.h",
+		"/D/007_dev/artcraft/dip5/07/index.html",
+		"/D/007_dev/artcraft/dip5/07/lib/p5.dom.js",
+		"/D/007_dev/artcraft/dip5/06/js/sketch.js",
+		"/D/007_dev/artcraft/dip5/06/js/Spirograph.js",
+		"/D/007_dev/artcraft/dip5/05/index.html",
+		"/D/007_dev/artcraft/dip5/06/index.html",
+		"/D/007_dev/artcraft/dip5/06/js/spirograph.js",
+		"/C/Users/OMAO/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/D/007_dev/artcraft/dip5/05/js/sketch.js",
+		"//192.168.1.85/Public/Percus Sophie/.DS_Store",
+		"/C/Users/OMAO/Downloads/WDAccess_1.5.6698.5488/manifest.json",
+		"/D/007_dev/artcraft/dip5/04/index.html",
+		"/D/007_dev/artcraft/dip5/04/js/sketch.js",
+		"/D/005_ableton_user_library/User Library/Samples/Bruits/23-Audio 2.alc",
+		"/C/Users/OMAO/Documents/Cadeau jess/contacts.csv",
+		"/D/007_dev/artcraft/dip5/04/js/LineManager.js",
+		"/D/007_dev/artcraft/dip5/04/js/GlitchLine.js",
+		"/D/007_dev/az/src/graphiques/UIRythme.hx",
+		"/D/007_dev/az/.gitignore",
+		"/D/007_dev/az/Albert+Zoé.iml",
+		"/D/007_dev/artcraft/dip5/03/js/sketch.js",
+		"/D/007_dev/artcraft/dip5/03/index.html",
+		"/C/Users/OMAO/Downloads/Sony Vegas Pro 13 Build 453 (64 bit)/sony vegas 13.nfo",
+		"/D/007_dev/artcraft/dip5/03/js/LineManager.js",
+		"/D/007_dev/artcraft/dip5/03/js/GlitchLine.js",
+		"/D/007_dev/artcraft/dip5/01/js/sketch.js",
+		"/D/007_dev/artcraft/dip5/03/LineManager.js",
+		"/D/007_dev/artcraft/dip5/02/index.html",
+		"/D/007_dev/artcraft/dip5/02/js/PrettySquare.js",
+		"/D/007_dev/artcraft/dip5/02/js/sketch.js",
+		"/D/007_dev/artcraft/dip5/package.json",
+		"/D/007_dev/artcraft/dip5/02/run.bat",
+		"/C/Users/OMAO/Desktop/It.Follows.2014.720p.BluRay.x264.YIFY.srt",
+		"/D/007_dev/artcraft/dip5/01/index.html",
+		"/C/Users/OMAO/.npmrc",
+		"/D/007_dev/artcraft/dip5/01/lib/p5.js",
+		"/C/Users/OMAO/.gitconfig",
+		"/D/007_dev/artcraft/generation/index.html",
+		"/C/Users/OMAO/Downloads/Adobe Photoshop Lightroom 6.0+patch Painter/Adobe Photoshop Lightroom 6.0+patch Painter.nfo",
+		"//192.168.1.85/mcharton/Logiciels/Whole.Tomato.Visual.Assist.X.v10.8.2029.0.Cracked-BRD/brd.nfo",
+		"//192.168.1.85/mcharton/Images/Photos/Divers/photo.jpgZone.Identifier",
+		"/C/Users/OMAO/Pictures/Lightroom/Lightroom Catalog.lrcat",
+		"/C/Users/OMAO/Downloads/Portal/Autorun.inf",
+		"/C/Users/OMAO/Videos/20130622 Anniv Marc Europapark/20130622 Anniv Marc/20130622 Anniv Marc.veg",
+		"/C/Users/OMAO/Downloads/FabFilter.Total.Bundle.v2018.02.22.Incl.Patched.and.Keygen-R2R/R2R/R2R_IS_AGAINST_BUSINESS_WAREZ_180201.cmd",
+		"/C/Users/OMAO/Desktop/PC EPITECH/Documents/Backup FEDORA/Media/Pictures/changementBackground",
+		"/C/Users/OMAO/Desktop/test batterie.keymap",
+		"/C/Users/OMAO/Downloads/guide_ajax.json",
+		"/C/Users/OMAO/Desktop/Authorize.auz",
+		"/C/Users/OMAO/Downloads/Native.Instruments.Replika.v1.3.2.Incl.Patched.and.Keygen-R2R/R2R.nfo",
+		"/D/007_dev/lib/p5.js",
+		"/C/Users/OMAO/Downloads/Native.Instruments.Replika.v1.3.1.Update.Incl.Patched.and.Keygen-R2R/R2R.nfo",
+		"/C/Users/OMAO/Downloads/Native.Instruments.Replika.v1.3.2.Incl.Patched.and.Keygen-R2R/mia.lib",
+		"/C/Users/OMAO/Downloads/Native.Instruments.Replika.v1.3.2.Incl.Patched.and.Keygen-R2R/Replika Setup PC.res",
+		"/C/Users/OMAO/Downloads/Native.Instruments.Replika.v1.3.2.Incl.Patched.and.Keygen-R2R/r2r-5017.sfv",
+		"/C/Program Files (x86)/Waves Central/Support/instl/bin/check-previous-versions.bat",
+		"/C/Program Files (x86)/Waves Central/Support/instl/bin/copy_support_folder.bat",
+		"/C/Users/OMAO/Downloads/Xfer Records - Serum 1.214b4+Audio DSP Pack_NO INSTALL/Roaming/Xfer/Serum/user.dat",
+		"/C/Users/OMAO/Downloads/Xfer Records - Serum 1.214b4+Audio DSP Pack_NO INSTALL/Roaming/Xfer/Serum/Serum.cfg",
+		"/C/Users/OMAO/Downloads/Lexicon.LXP.Native.Reverb.v.1.1.2.WIN-AudioUTOPiA/AudioUTOPiA.nfo",
+		"/C/Users/OMAO/Downloads/Xfer Records - Serum 1.214b4+Audio DSP Pack_NO INSTALL/Roaming/Xfer/Serum/user.dat.back",
+		"/C/Users/OMAO/Desktop/Serum.cfg",
+		"/C/Users/OMAO/Downloads/JetBrains WebStorm 2018.1 Build #WS-181.4203.535 [En]/license.txt",
+		"/D/003_install_mao/FabFilter.Pro-Q.v1.23.Incl.Patched.and.Keygen/R2R.nfo",
+		"/D/003_install_mao/DMG Audio - Plugin Bundle 2.24.2016/DMG.Audio.Expurgate.v1.01.Incl.Patch.and.Keygen-R2R/R2R.nfo",
+		"/C/Users/OMAO/Downloads/miousique.wordpress.2018-04-10.xml"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"echo",
+			"EEE",
+			"F8",
+			"var_dump",
+			"</div>\n                                <div class=\"_3-96 _2let\">\n                                    <div>",
+			"<div class=\"pam _3-95 _2pi0 _2lej uiBoxWhite noborder\">\n                                <div class=\"_3-96 _2pio _2lek _2lel\">",
+			"<div class=\"pam _3-95 _2pi0 _2lej uiBoxWhite noborder\">\n                                <div class=\"_3-96 _2pio _2lek _2lel\">Marc Charton</div>\n                                <div class=\"_3-96 _2let\">",
+			".",
+			"2018",
+			"- []",
+			" - [",
+			" - ",
+			"\\[[0-9]+:[0-9]+\\]",
+			"n]",
+			"h]",
+			"n]",
+			"(",
+			".",
+			"Queen",
+			"Paradox",
+			"Sex",
+			"Queer",
+			"Porn",
+			"extension_dir",
+			"extension",
+			"echo",
+			".",
+			"private",
+			"Informations",
+			">\";\n",
+			"\\n",
+			"\n\t\t{\n\t\t\t\"id\" : \"001\",\n\t\t\t\"title\" : \"lire\",\n\t\t\t\"description\" : \"lire 20 pages par jour\"\n\t\t}",
+			"!",
+			"pas\"",
+			"pas assez",
+			"pas\"",
+			"\t\"",
+			"ce qui",
+			"...",
+			"%",
+			"if (this.circleNumberCursor.value() > this.circleNumber)\n        this.circleList.splice(this.circleNumber);",
+			"background",
+			"updateParams",
+			"this.backgroundColor",
+			"the speed of ",
+			"what multiplier for speed",
+			"alpha",
+			"  //",
+			"//",
+			"var ",
+			"fund",
+			"drawSine",
+			"rotateSine",
+			"sines",
+			"rad",
+			");\n",
+			"minSizeToTrace",
+			"femme",
+			"homme",
+			");\n",
+			"50",
+			"c",
+			"Albert+Zoé.iml",
+			"\"",
+			"</a>",
+			"href",
+			"<",
+			">\n",
+			"this.y",
+			"canvas",
+			"frontColor2",
+			"frontColor1",
+			"or",
+			"stepH",
+			"height",
+			"size",
+			"front2",
+			");\n",
+			"Img",
+			"[\n:]",
+			"[\n]",
+			"], ",
+			"]",
+			"[",
+			"WIN",
+			"WiN"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 70.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bots.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\007_dev\\adrec\\adrec.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
