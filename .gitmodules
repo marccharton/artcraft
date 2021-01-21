@@ -1,3 +1,6 @@
 [submodule "gringe-stunted-rubber"]
 	path = gringe-stunted-rubber
 	url = https://github.com/marccharton/gringe-stunted-rubber
+[submodule "dip5"]
+	path = dip5
+	url = https://github.com/marccharton/dip5
