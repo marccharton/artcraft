@@ -13,3 +13,6 @@
 [submodule "pixelizr"]
 	path = pixelizr
 	url = https://github.com/marccharton/pixelizr
+[submodule "projetRGB"]
+	path = projetRGB
+	url = https://github.com/ChrisMch/projetRGB
