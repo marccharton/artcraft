@@ -16,3 +16,6 @@
 [submodule "projetRGB"]
 	path = projetRGB
 	url = https://github.com/ChrisMch/projetRGB
+[submodule "protocoll/generative-content"]
+	path = protocoll/generative-content
+	url = https://github.com/protocollstudio/generative-content
