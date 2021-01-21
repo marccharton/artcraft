@@ -4,3 +4,12 @@
 [submodule "dip5"]
 	path = dip5
 	url = https://github.com/marccharton/dip5
+[submodule "lc-sonic-pi"]
+	path = lc-sonic-pi
+	url = https://github.com/marccharton/lc-sonic-pi
+[submodule "micmultip"]
+	path = micmultip
+	url = https://github.com/marccharton/micmultip
+[submodule "pixelizr"]
+	path = pixelizr
+	url = https://github.com/marccharton/pixelizr
